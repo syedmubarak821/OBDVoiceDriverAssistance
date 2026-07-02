@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.OBDVoiceAssist" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#020617</item>
+    </style>
+
+    <style name="Theme.OBDVoiceAssist.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/obd_logo</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/splash_background</item>
+        <item name="postSplashScreenTheme">@style/Theme.OBDVoiceAssist</item>
+    </style>
+</resources>
