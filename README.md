@@ -556,5 +556,5 @@ Deggendorf Institute of Technology
 ## 21. Repository
 
 ```text
-https://mygit.th-deg.de/ss11619/obd-voice-assist
+https://github.com/syedmubarak821/OBDVoiceDriverAssistance/
 ```
